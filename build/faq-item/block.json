@@ -1,0 +1,35 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "create-block/faq-item",
+  "version": "0.1.0",
+  "title": "FAQ Item",
+  "category": "widgets",
+  "icon": "editor-help",
+  "description": "One question and answer that opens and closes.",
+  "attributes": {
+    "question": {
+      "type": "string",
+      "source": "html",
+      "selector": "summary"
+    },
+    "answer": {
+      "type": "string",
+      "source": "html",
+      "selector": ".travel-faq__answer"
+    },
+    "openByDefault": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "travel-notice",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}

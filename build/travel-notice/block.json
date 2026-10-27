@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "create-block/travel-notice",
+  "version": "0.1.0",
+  "title": "Travel Notice",
+  "category": "widgets",
+  "icon": "info",
+  "description": "A coloured notice box: info, warning or success.",
+  "attributes": {
+    "message": {
+      "type": "string",
+      "source": "html",
+      "selector": "p"
+    },
+    "noticeType": {
+      "type": "string",
+      "default": "info"
+    }
+  },
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "travel-notice",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}

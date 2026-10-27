@@ -1,0 +1,24 @@
+.wp-block-create-block-faq-item {
+	border: 1px solid #e2e8f0;
+	border-radius: 12px;
+	background: #fff;
+	margin: 0 0 12px;
+
+	.travel-faq__question {
+		cursor: pointer;
+		font-weight: 700;
+		color: #1a1313;
+		padding: 16px 20px;
+		margin: 0;
+	}
+
+	summary.travel-faq__question:focus-visible {
+		outline: 2px solid #106fea;
+		outline-offset: 2px;
+	}
+
+	.travel-faq__answer {
+		color: #444;
+		padding: 0 20px 16px;
+	}
+}

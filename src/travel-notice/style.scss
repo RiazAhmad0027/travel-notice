@@ -1,0 +1,22 @@
+.wp-block-create-block-travel-notice {
+	border-left: 6px solid #106fea;
+	background: #eef5ff;
+	color: #1a1313;
+	padding: 16px 20px;
+	border-radius: 8px;
+	margin: 1.5em 0;
+
+	p {
+		margin: 0;
+	}
+
+	&.travel-notice--warning {
+		border-left-color: #b45309;
+		background: #fff7e6;
+	}
+
+	&.travel-notice--success {
+		border-left-color: #15803d;
+		background: #ecfdf3;
+	}
+}
