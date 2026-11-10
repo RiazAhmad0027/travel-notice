@@ -39,8 +39,10 @@ The demo showcases custom Gutenberg blocks and their editing experience.
 
 ## Screenshots
 
-<img width="1346" height="624" alt="React Blocks Demo live page" src="https://github.com/user-attachments/assets/b40665d3-8935-4731-ab0f-c5005ebcd6c5" />
-<img width="1365" height="615" alt="React Blocks Demo” gutenber editor" src="https://github.com/user-attachments/assets/5dfe090e-1f88-4056-b96c-4770a7be17fd" />
+<img width="1366" height="768" alt="React Block Demo Live" src="https://github.com/user-attachments/assets/09d11662-1f60-409c-9c52-13f8cc2fce48" />
+
+<img width="1366" height="768" alt="Ispecter settings" src="https://github.com/user-attachments/assets/48a60307-a080-4f48-bb37-2286f33c1dd5" />
+
 <img width="1359" height="613" alt="React Blocks Demo setting " src="https://github.com/user-attachments/assets/14ff61c2-6102-49f4-b59a-61ae22248b9c" />
 
 
