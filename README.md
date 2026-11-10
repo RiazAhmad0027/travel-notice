@@ -29,6 +29,18 @@ Built using React, JavaScript, PHP, and the WordPress Block API.
 - @wordpress/scripts
 - SCSS
 
+## Live Demo
+
+Explore the custom Gutenberg blocks in action:
+
+- **React Blocks Demo:** https://premiumcircle.shop/
+
+The demo showcases custom Gutenberg blocks and their editing experience.
+
+## Screenshots
+
+Screenshots of the Gutenberg editor, block settings, and frontend output will be added here.
+
 ## Project Structure
 
 ```text
