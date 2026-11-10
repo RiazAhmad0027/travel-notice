@@ -43,7 +43,6 @@ The demo showcases custom Gutenberg blocks and their editing experience.
 
 <img width="1366" height="768" alt="Ispecter settings" src="https://github.com/user-attachments/assets/48a60307-a080-4f48-bb37-2286f33c1dd5" />
 
-<img width="1359" height="613" alt="React Blocks Demo setting " src="https://github.com/user-attachments/assets/14ff61c2-6102-49f4-b59a-61ae22248b9c" />
 
 
 
